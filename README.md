@@ -4,6 +4,14 @@ Aplikasi streaming mini drama / short drama Indonesia terbaik dalam format verti
 
 Nonton drama romantis, balas dendam, mafia, CEO, pengkhianatan, cinta segitiga, dan banyak cerita seru lainnya — semuanya dalam episode pendek yang bikin ketagihan!
 
+
+<!-- Cara 3 – Tampilkan beberapa gambar berdampingan (2–3 kolom) -->
+<div align="center">
+  <img src="screenshots/ss1.jpg" width="30%" />
+  <img src="screenshots/ss2.jpg" width="30%" />
+  <img src="screenshots/ss5.jpg" width="30%" />
+</div>
+
 ### Fitur Utama
 - Koleksi drama dari berbagai sumber: DramaBox, Netshort, FlickReels, Reelshort
 - Rekomendasi personal berdasarkan tontonanmu
