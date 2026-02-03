@@ -19,7 +19,6 @@ Nonton drama romantis, balas dendam, mafia, CEO, pengkhianatan, cinta segitiga, 
 - Koleksi drama dari berbagai sumber: DramaBox, Netshort, FlickReels, Reelshort
 - Rekomendasi personal berdasarkan tontonanmu
 - Riwayat tontonan & daftar favorit
-- Pilihan kualitas & hemat data
 - Daftar episode lengkap dengan progress tracking
 - Tema gelap modern & tampilan ramah mobile
 - Update drama terbaru setiap hari
