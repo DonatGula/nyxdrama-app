@@ -7,9 +7,9 @@ Nonton drama romantis, balas dendam, mafia, CEO, pengkhianatan, cinta segitiga, 
 
 <!-- Cara 3 – Tampilkan beberapa gambar berdampingan (2–3 kolom) -->
 <div align="center">
-  <img src="screenshots/ss1.jpg" width="30%" />
-  <img src="screenshots/ss2.jpg" width="30%" />
-  <img src="screenshots/ss5.jpg" width="30%" />
+  <img src="screenshot/ss1.jpg" width="30%" />
+  <img src="screenshot/ss2.jpg" width="30%" />
+  <img src="screenshot/ss5.jpg" width="30%" />
 </div>
 
 ### Fitur Utama
