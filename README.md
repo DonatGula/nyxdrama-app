@@ -7,10 +7,10 @@ Nonton drama romantis, balas dendam, mafia, CEO, pengkhianatan, cinta segitiga, 
 
 <!-- Cara 3 – Tampilkan beberapa gambar berdampingan (2–3 kolom) -->
 <div align="center">
-  <img src="Screenshot/ss1.jpg" width="30%" />
-  <img src="Screenshot/ss2.jpg" width="30%" />
-  <img src="Screenshot/ss3.jpg" width="30%" />
-  <img src="Screenshot/ss4.jpg" width="30%" />
+  <img src="Screenshot/ss1.jpg" width="30%" /> |
+  <img src="Screenshot/ss2.jpg" width="30%" /> |
+  <img src="Screenshot/ss3.jpg" width="30%" /> |
+  <img src="Screenshot/ss4.jpg" width="30%" /> | 
   <img src="Screenshot/ss5.jpg" width="30%" />
   
 </div>
